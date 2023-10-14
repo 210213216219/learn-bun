@@ -2,7 +2,6 @@ name: learn-bun
 on: 
   push:
     branches:
-      - master
       - main
 jobs:
   server-test:
