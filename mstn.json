@@ -115,6 +115,44 @@
   ],
   [
     {
+      "name": "Rockets Pelican Beau",
+      "year": 0,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/rockets+pelican+beau",
+      "mstn": "CC"
+    },
+    {
+      "name": "Stiles Chance",
+      "year": 1996,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/stiles+chance",
+      "mstn": ""
+    },
+    {
+      "name": "Little Rocket Burn",
+      "year": 0,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/little+rocket+burn",
+      "mstn": ""
+    },
+    {
+      "name": "Scootalong Canute",
+      "year": 1975,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/scootalong+canute",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Sonic",
       "year": 0,
       "cnty": "",
@@ -1333,6 +1371,44 @@
     {
       "name": "-",
       "year": 2021,
+      "cnty": "",
+      "sex": "M",
+      "type": "QH*",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Smart Nspecialjamison",
+      "year": 2017,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/smart+nspecialjamison",
+      "mstn": "CT"
+    },
+    {
+      "name": "Nu Gay Bar Maddie",
+      "year": 2003,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/nu+gay+bar+maddie",
+      "mstn": ""
+    },
+    {
+      "name": "Dots Nu King",
+      "year": 1995,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/dots+nu+king",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2021,
       "cnty": "IRE",
       "sex": "M",
       "type": "TB",
@@ -1597,6 +1673,44 @@
   ],
   [
     {
+      "name": "Gunmedal N Glitter",
+      "year": 2021,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/gunmedal+n+glitter",
+      "mstn": "CC"
+    },
+    {
+      "name": "Full Medal Jacket",
+      "year": 2009,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/full+medal+jacket",
+      "mstn": ""
+    },
+    {
+      "name": "Ql Mo Paint",
+      "year": 2004,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/ql+mo+paint",
+      "mstn": ""
+    },
+    {
+      "name": "Red Skipper High",
+      "year": 1998,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/red+skipper+high",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "La Mer Bleue",
       "year": 2021,
       "cnty": "AUS",
@@ -1744,6 +1858,44 @@
       "sex": "M",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/duel+intent",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "The Best Detail",
+      "year": 2021,
+      "cnty": "",
+      "sex": "M",
+      "type": "QH*",
+      "href": "https://internethorseauctions.com/images/pdf/29236NEW.pdf",
+      "mstn": "CC"
+    },
+    {
+      "name": "Only The Best Willdo",
+      "year": 2006,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/only+the+best+willdo",
+      "mstn": ""
+    },
+    {
+      "name": "Ironing Out Details",
+      "year": 2011,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/ironing+out+details",
+      "mstn": ""
+    },
+    {
+      "name": "Hbf Iron Man",
+      "year": 1996,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/hbf+iron+man",
       "mstn": ""
     }
   ],
@@ -2761,7 +2913,7 @@
       "sex": "F",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/bmq+talkin+dirty",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Bmq Legacy",
@@ -5437,9 +5589,9 @@
     {
       "name": "Drinkin Machine",
       "year": 2018,
-      "type": "QH*",
       "cnty": "",
       "sex": "M",
+      "type": "QH*",
       "href": "https://www.allbreedpedigree.com/2018+pretty+coosa+scotch",
       "mstn": "CC"
     },
@@ -6045,6 +6197,8 @@
     {
       "name": "Midnights Excalibur",
       "year": 2018,
+      "cnty": "",
+      "sex": "M",
       "type": "QH*",
       "href": "https://www.allbreedpedigree.com/midnights+excalibur",
       "mstn": "CC"
@@ -6052,6 +6206,8 @@
     {
       "name": "Smoke N Midnite Hawk",
       "year": 2000,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/smoke+n+midnite+hawk",
       "mstn": ""
@@ -6059,6 +6215,8 @@
     {
       "name": "Lenas Maken Smoke",
       "year": 2003,
+      "cnty": "",
+      "sex": "F",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/lenas+maken+smoke",
       "mstn": ""
@@ -6066,6 +6224,8 @@
     {
       "name": "Golden Little Lena",
       "year": 1998,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/golden+little+lena",
       "mstn": ""
@@ -8165,6 +8325,8 @@
     {
       "name": "Mqh Miss Wily 922",
       "year": 2017,
+      "cnty": "",
+      "sex": "F",
       "type": "QH*",
       "href": "https://www.allbreedpedigree.com/mqh+miss+wily+922",
       "mstn": "CC"
@@ -8172,6 +8334,8 @@
     {
       "name": "Wc Commandin A Drift",
       "year": 2010,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/wc+commandin+a+drift",
       "mstn": ""
@@ -8179,6 +8343,8 @@
     {
       "name": "Miss Poco Gold 922",
       "year": 2005,
+      "cnty": "",
+      "sex": "F",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/miss+poco+gold+922",
       "mstn": ""
@@ -8186,6 +8352,8 @@
     {
       "name": "Poco Gold Jessie",
       "year": 1994,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/poco+gold+jessie",
       "mstn": ""
@@ -8250,7 +8418,7 @@
     },
     {
       "name": "A Rio Scenic Looker",
-      "year": 0,
+      "year": 2010,
       "cnty": "",
       "sex": "F",
       "type": "QH",
@@ -9067,6 +9235,44 @@
   ],
   [
     {
+      "name": "Kvmerridocsrarenews",
+      "year": 2016,
+      "cnty": "",
+      "sex": "M",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/kvmerridocsrarenews",
+      "mstn": "CC"
+    },
+    {
+      "name": "Rare News",
+      "year": 1999,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/rare+news",
+      "mstn": ""
+    },
+    {
+      "name": "Did I Do That Doc",
+      "year": 2000,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/did+i+do+that+doc",
+      "mstn": ""
+    },
+    {
+      "name": "Merridoc",
+      "year": 1977,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/merridoc",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Moyies Royal Outlaw",
       "year": 2016,
       "cnty": "",
@@ -9328,6 +9534,44 @@
       "sex": "S",
       "type": "TB",
       "href": "https://www.jbis.or.jp/horse/0000845470/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "The Only Dream",
+      "year": 2016,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/the+only+dream",
+      "mstn": "CC"
+    },
+    {
+      "name": "Hot Ones Only",
+      "year": 2006,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/hot+ones+only",
+      "mstn": ""
+    },
+    {
+      "name": "Tatoo Dream Magic",
+      "year": 2006,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/tatoo+dream+magic",
+      "mstn": "CC"
+    },
+    {
+      "name": "Magic Thunder",
+      "year": 0,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/magic+thunder2",
       "mstn": ""
     }
   ],
@@ -12107,6 +12351,44 @@
   ],
   [
     {
+      "name": "Hot Intent",
+      "year": 2013,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/hot+intent",
+      "mstn": "CC"
+    },
+    {
+      "name": "One Hot Krymsun",
+      "year": 1999,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/one+hot+krymsun",
+      "mstn": ""
+    },
+    {
+      "name": "Shes Doolins Nikita",
+      "year": 2001,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/shes+doolins+nikita",
+      "mstn": ""
+    },
+    {
+      "name": "Doolins Hotrodder",
+      "year": 1989,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/doolins+hotrodder",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Incredibly Detailed",
       "year": 2013,
       "cnty": "",
@@ -13855,12 +14137,12 @@
   ],
   [
     {
-      "name": "Dgs Tryandduplicateme",
+      "name": "Dgstryandduplicateme",
       "year": 2011,
       "cnty": "",
       "sex": "F",
       "type": "QH*",
-      "href": "https://www.whatiwork4.com/mares/Dgs-Tryandduplicateme/",
+      "href": "https://www.allbreedpedigree.com/dgstryandduplicateme",
       "mstn": "CC"
     },
     {
@@ -17161,10 +17443,48 @@
   ],
   [
     {
+      "name": "El Miss Presley",
+      "year": 2007,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/el+miss+presley",
+      "mstn": "CC"
+    },
+    {
+      "name": "Jose Domingo",
+      "year": 1980,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/jose+domingo",
+      "mstn": ""
+    },
+    {
+      "name": "Qz Miss Congeniality",
+      "year": 2002,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/qz+miss+congeniality",
+      "mstn": ""
+    },
+    {
+      "name": "Ballys Thunder",
+      "year": 1992,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/ballys+thunder",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Forever A Gentleman",
       "year": 2007,
       "cnty": "",
-      "sex": "S",
+      "sex": "M",
       "type": "QH*",
       "href": "https://www.allbreedpedigree.com/forever+a+gentleman",
       "mstn": "CC"
@@ -17693,6 +18013,44 @@
   ],
   [
     {
+      "name": "Ba Blew By You",
+      "year": 2006,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/ba+blew+by+you",
+      "mstn": "CC"
+    },
+    {
+      "name": "Dash To Chivato",
+      "year": 1996,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/dash+to+chivato",
+      "mstn": ""
+    },
+    {
+      "name": "Truly Blushing",
+      "year": 1995,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/truly+blushing2",
+      "mstn": ""
+    },
+    {
+      "name": "Blusing Bug",
+      "year": 1983,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/blushing+bug",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Bushranger",
       "year": 2006,
       "cnty": "IRE",
@@ -18075,6 +18433,8 @@
     {
       "name": "Ppr Rapid In Lace",
       "year": 2006,
+      "cnty": "",
+      "sex": "F",
       "type": "QH*",
       "href": "",
       "mstn": "CC"
@@ -18082,6 +18442,8 @@
     {
       "name": "Rapid Resistence",
       "year": 1991,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/rapid+resistwnce",
       "mstn": ""
@@ -18089,6 +18451,8 @@
     {
       "name": "Lady Dusty Sage",
       "year": 1991,
+      "cnty": "",
+      "sex": "F",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/lady+dusty+sage",
       "mstn": ""
@@ -18096,6 +18460,8 @@
     {
       "name": "Bonnington Sanday",
       "year": 1986,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/bonnington+sandy",
       "mstn": ""
@@ -18212,6 +18578,44 @@
       "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/chief+wimpy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Sharp N Easy",
+      "year": 2006,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/sharp+n+easy2",
+      "mstn": "CC"
+    },
+    {
+      "name": "A Sharper Image",
+      "year": 1995,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/a+sharper+image",
+      "mstn": ""
+    },
+    {
+      "name": "Gone To Arizona",
+      "year": 1992,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/gone+to+arizona2",
+      "mstn": ""
+    },
+    {
+      "name": "Ocp Easter Bunny",
+      "year": 1993,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/ocp+easter+bunny",
       "mstn": ""
     }
   ],
@@ -24449,6 +24853,44 @@
   ],
   [
     {
+      "name": "レーザースペックル",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "type": "TB",
+      "href": "https://www.jbis.or.jp/horse/0001353787/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Pyro",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "type": "TB",
+      "href": "https://www.jbis.or.jp/horse/0001085636/",
+      "mstn": "CT"
+    },
+    {
+      "name": "バンダ",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "type": "TB",
+      "href": "https://www.jbis.or.jp/horse/0001088698/",
+      "mstn": ""
+    },
+    {
+      "name": "キングヘイロー",
+      "year": 1995,
+      "cnty": "JPN",
+      "sex": "S",
+      "type": "TB",
+      "href": "https://www.jbis.or.jp/horse/0000294840/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "レジョンデロル",
       "year": 2022,
       "cnty": "JPN",
@@ -24715,6 +25157,44 @@
   ],
   [
     {
+      "name": "Good To Be Flashy",
+      "year": 2021,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/good+to+be+flashy",
+      "mstn": "CT"
+    },
+    {
+      "name": "All The Wild Details",
+      "year": 2013,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/all+the+wild+details",
+      "mstn": ""
+    },
+    {
+      "name": "Good To Be Fancy",
+      "year": 2006,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/good+to+be+fancy2",
+      "mstn": "CT"
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "Icecreamdemondevan",
       "year": 2021,
       "cnty": "FR",
@@ -24787,6 +25267,44 @@
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/indian+artifacts",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Lady Sings Da Bluez",
+      "year": 2021,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "https://www.allbreedpedigree.com/lady+sings+da+bluez",
+      "mstn": "CT"
+    },
+    {
+      "name": "Good To Be Blue",
+      "year": 2012,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/good+to+be+blue",
+      "mstn": ""
+    },
+    {
+      "name": "All She Wrote",
+      "year": 2011,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/all+she+wrote3",
+      "mstn": ""
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
+      "mstn": "CC"
     }
   ],
   [
@@ -26465,6 +26983,8 @@
     {
       "name": "Turn On The Tuf",
       "year": 2020,
+      "cnty": "",
+      "sex": "M",
       "type": "QH*",
       "href": "",
       "mstn": "CC"
@@ -26472,6 +26992,8 @@
     {
       "name": "The Ultimate Fancy",
       "year": 1998,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/the+ultimate+fancy",
       "mstn": ""
@@ -26479,6 +27001,8 @@
     {
       "name": "Its Time To Jazz",
       "year": 2013,
+      "cnty": "",
+      "sex": "F",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/its+time+to+jazz",
       "mstn": ""
@@ -26486,6 +27010,8 @@
     {
       "name": "All Time Fancy",
       "year": 1998,
+      "cnty": "",
+      "sex": "S",
       "type": "QH",
       "href": "https://www.allbreedpedigree.com/all+time+fancy",
       "mstn": "CC"
@@ -30863,6 +31389,44 @@
   ],
   [
     {
+      "name": "Gold Trip",
+      "year": 2017,
+      "cnty": "FR",
+      "sex": "M",
+      "type": "TB",
+      "href": "https://www.pedigreequery.com/gold+trip3",
+      "mstn": "CT"
+    },
+    {
+      "name": "Outstrip",
+      "year": 2011,
+      "cnty": "GB",
+      "sex": "S",
+      "type": "TB",
+      "href": "https://www.jbis.or.jp/horse/0001302805/",
+      "mstn": ""
+    },
+    {
+      "name": "Sarvana",
+      "year": 2010,
+      "cnty": "FR",
+      "sex": "F",
+      "type": "TB",
+      "href": "https://www.pedigreequery.com/sarvana",
+      "mstn": ""
+    },
+    {
+      "name": "Dubai Destination",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "S",
+      "type": "TB",
+      "href": "https://www.jbis.or.jp/horse/0000714910/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Good Machine Cowboy",
       "year": 2017,
       "cnty": "",
@@ -31733,6 +32297,44 @@
       "type": "TB",
       "href": "https://www.jbis.or.jp/horse/0000336447/",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "The Best Of Times",
+      "year": 2017,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH*",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Only The Best Willdo",
+      "year": 2006,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/only+the+best+willdo",
+      "mstn": ""
+    },
+    {
+      "name": "Time Is All It Takes",
+      "year": 2010,
+      "cnty": "",
+      "sex": "F",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/time+is+all+it+takes",
+      "mstn": ""
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "cnty": "",
+      "sex": "S",
+      "type": "QH",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
+      "mstn": "CC"
     }
   ],
   [
@@ -42949,9 +43551,9 @@
     {
       "name": "A Big Affair",
       "year": 2006,
-      "type": "QH*",
       "cnty": "",
       "sex": "F",
+      "type": "QH*",
       "href": "https://www.allbreedpedigree.com/a+big+affair2",
       "mstn": "CT"
     },
@@ -44279,9 +44881,9 @@
     {
       "name": "Northern Shimmer",
       "year": 2005,
-      "type": "QH*",
       "cnty": "",
       "sex": "F",
+      "type": "QH*",
       "href": "https://www.allbreedpedigree.com/northern+shimmer2",
       "mstn": "CT"
     },
@@ -46273,9 +46875,9 @@
     {
       "name": "Texan Hi Style",
       "year": 1996,
-      "type": "QH",
       "cnty": "",
       "sex": "F",
+      "type": "QH",
       "href": "https://www.allbreedpedigree.com/texan+hi+style",
       "mstn": ""
     },
@@ -52939,6 +53541,44 @@
   ],
   [
     {
+      "name": "Amf Turn Signal",
+      "year": 2017,
+      "cnty": "",
+      "sex": "F",
+      "type": "AR*",
+      "href": "https://www.allbreedpedigree.com/amf+turn+signal",
+      "mstn": "TT"
+    },
+    {
+      "name": "Signal Bey",
+      "year": 2003,
+      "cnty": "",
+      "sex": "S",
+      "type": "AR",
+      "href": "https://www.allbreedpedigree.com/signal+bey",
+      "mstn": ""
+    },
+    {
+      "name": "Not That Innocent",
+      "year": 2001,
+      "cnty": "",
+      "sex": "F",
+      "type": "AR",
+      "href": "https://www.allbreedpedigree.com/not+that+innocent3",
+      "mstn": ""
+    },
+    {
+      "name": "Hj Beijing",
+      "year": 1996,
+      "cnty": "",
+      "sex": "S",
+      "type": "AR",
+      "href": "https://www.allbreedpedigree.com/hj+beijing",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Bazini",
       "year": 2017,
       "cnty": "AUS",
@@ -56788,6 +57428,8 @@
     {
       "name": "Turza Blue",
       "year": 2007,
+      "cnty": "",
+      "sex": "S",
       "type": "WB",
       "href": "https://infochevaux.ifce.fr/fr/turza-blue-qLy3Rq1mSFCN4CSUQgQaug/pedigree-et-chevaux-associes/pedigree-5-generations",
       "mstn": ""
@@ -57488,9 +58130,9 @@
     {
       "name": "Flicker De Bomb",
       "year": 1981,
-      "type": "QH",
       "cnty": "",
       "sex": "S",
+      "type": "QH",
       "href": "https://www.allbreedpedigree.com/flicker+de+bomb",
       "mstn": ""
     }
